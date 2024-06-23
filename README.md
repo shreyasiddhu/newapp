@@ -3,7 +3,7 @@ Node.js: Install from nodejs.org
 MongoDB: Install from mongodb.com
 Installation:
 Clone the Repository:
-git clone https://github.com/yourusername/task-management-app.git
+git clone https://github.com/shreyasiddhu/newapp.git
 cd task-management-app
 open split terminal on vs code for side by side running of frontend and backend :
 Install Dependencies:
