@@ -1,15 +1,3 @@
-Introduction
-The Task Management Application helps users manage tasks with features to create, read, update, and delete tasks. It ensures usability on both desktop and mobile devices.
-Features
-Display a list of tasks
-Add new tasks with a title, description, and due date
-View detailed information of each task
-Edit existing tasks
-Delete tasks
-Responsive design for desktop and mobile
-Technology Stack
-Front-end: React.js, Axios, Bootstrap
-Back-end: Node.js, Express.js, MongoDB, Mongoose
 Prerequisites
 Node.js: Install from nodejs.org
 MongoDB: Install from mongodb.com
